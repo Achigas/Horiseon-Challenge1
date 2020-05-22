@@ -13,6 +13,7 @@ p {
 }
 
 /* Header Style Start */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -67,12 +68,13 @@ header nav ul li a {
 }
 /* Hero Style End */
 
+/* Services Content Style */
+
 .contents {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* Navigation Content Style */
 
 .content-info {
     margin-bottom: 20px;
@@ -102,7 +104,7 @@ header nav ul li a {
     margin-left: 25px;
 }
 
-/*Navigation Style End*/
+/* Services Content Style End*/
 
 /* Benefits Content Style */
 
@@ -135,6 +137,8 @@ header nav ul li a {
 
 /* End Benefits Content Style */
 
+/* Footer Style */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -145,3 +149,5 @@ header nav ul li a {
 .footer h2 {
     font-size: 20px;
 }
+
+/* Footer Style End */
