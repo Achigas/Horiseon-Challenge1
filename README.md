@@ -1,4 +1,4 @@
-# Horiseon Marketing Webpage
+# Horiseon Marketing Homepage
 > An accessible homepage for the Horiseon Marketing agency highlighting our benfits and services.
 
 ## Table of contents
@@ -17,7 +17,7 @@ The purpose of the project was to update the HTML and CSS codebase that follows 
 ![Screen print of Horiseon's homepage](./assets/images/Horiseon.png)
 
 ## URL
-[Horiseon Homepage](https://achigas.github.io/Horiseon-Challenge1/)
+[Horiseon Marketing Homepage](https://achigas.github.io/Horiseon-Challenge1/)
 
 ## Code
 * HTML
