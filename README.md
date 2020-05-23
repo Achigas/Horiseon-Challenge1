@@ -17,7 +17,7 @@ The purpose of the project was to update the HTML and CSS codebase that follows 
 ![Screen print of Horiseon's homepage](./assets/images/Horiseon.png)
 
 ## URL
-[Horiseon Homepage] (https://achigas.github.io/Horiseon-Challenge1/)
+[Horiseon Homepage](https://achigas.github.io/Horiseon-Challenge1/)
 
 ## Code
 * HTML
