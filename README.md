@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General Info
-The purpose of the project was to update the HTML and CSS codebase that follows accessibility standards, increases performance, and optimizes the site for search engines. 
+The purpose of the project was to update the codebase to follow accessibility standards, improve functionality, and optimize the site for search engines. 
 
 ## Screenshot
 ![Screen print of Horiseon's homepage](./assets/images/Horiseon.png)
