@@ -1,4 +1,4 @@
-# Horiseon Marketing Agency Webpage
+# Horiseon Marketing Webpage
 > An accessible homepage for the Horiseon Marketing agency highlighting our benfits and services.
 
 ## Table of contents
@@ -17,14 +17,14 @@ The purpose of the project was to update the HTML and CSS codebase that follows 
 ![Screen print of Horiseon's homepage](./assets/images/Horiseon.png)
 
 ## URL
-Describe how to install / setup your local environement / add link to demo version.
+[Horiseon Homepage] (https://achigas.github.io/Horiseon-Challenge1/)
 
 ## Code
-HTML
-CSS
+* HTML
+* CSS
 
 ## Status
-Project is complete. The codebase is updated, simpified, and site functions as expected while meeting accessibility standars. 
+Project is complete. The codebase is updated, simpified, and site functions as expected while meeting accessibility standards. 
 
 ## Inspiration
 Inspried by the first project for the UCLAx Coding Bootcamp. 
